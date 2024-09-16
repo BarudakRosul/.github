@@ -63,45 +63,21 @@
 <h2>💼 Tim Kami</h2>
 
 <h3>1. Rangga Fajar Oktariansyah (<a href="https://github.com/FajarKim">@FajarKim</a>)</h3>
-<div align="left">
-    <a href="https://github.com/FajarKim">
-        <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=303032" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" alt="Rangga's Stats">
-        </picture>
-    </a>
-</div>
+
+[![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454#gh-dark-mode-only)](https://github.com/FajarKim#gh-dark-mode-only)
+[![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/FajarKim#gh-light-mode-only)
 
 <h3>2. Citra Bella Rahayu (<a href="https://github.com/Achixz">@Achixz</a>)</h3>
-<div align="left">
-    <a href="https://github.com/Achixz">
-        <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=303032" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" alt="Citra's Stats">
-        </picture>
-    </a>
-</div>
+
+[![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454#gh-dark-mode-only)](https://github.com/Achixz#gh-dark-mode-only)
+[![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Achixz#gh-light-mode-only)
 
 <h3>3. Andi Rahek (<a href="https://github.com/Andi-Rahek">@Andi-Rahek</a>)</h3>
-<div align="left">
-    <a href="https://github.com/Andi-Rahek">
-        <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=303032" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" alt="Andi's Stats">
-        </picture>
-    </a>
-</div>
+
+[![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454#gh-dark-mode-only)](https://github.com/Andi-Rahek#gh-dark-mode-only)
+[![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Andi-Rahek#gh-light-mode-only)
 
 <h3>4. Fatimah Azzahra (<a href="https://github.com/fatimazq">@fatimazq</a>)</h3>
-<div align="left">
-    <a href="https://github.com/fatimazq">
-        <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=303032" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=fafafa" alt="Fatimah's Stats">
-        </picture>
-    </a>
-</div>
+
+[![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454#gh-dark-mode-only)](https://github.com/fatimazq#gh-dark-mode-only)
+[![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/fatimazq#gh-light-mode-only)
