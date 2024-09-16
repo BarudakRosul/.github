@@ -1,0 +1,62 @@
+name: Auto update badges file
+on:
+  schedule:
+    #          ┌─────────── minute (0 - 59)
+    #          │  ┌────────── hour (0 - 23)
+    #          │  │ ┌────────── day of the month (1 - 31)
+    #          │  │ │ ┌────────── month (1 - 12 or JAN-DEC)
+    #          │  │ │ │ ┌────────── day of the week (0 - 6 or SUN-SAT)
+    #          │  │ │ │ │
+    #          │  │ │ │ │
+    #          │  │ │ │ │
+    #          *  * * * *
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+
+      - name: Setup Node
+        uses: actions/setup-node@1e60f620b9541d16bece96c5465dc8ee9832be0b # v4.0.3
+        with:
+          node-version: "22.x"
+          cache: npm
+
+      # Fix the unsafe repo error which was introduced by the CVE-2022-24765 git patches.
+      - name: Fix unsafe repo error
+        run: git config --global --add safe.directory ${{ github.workspace }}
+
+      - name: Run npm install and run scripts
+        run: |
+          npm install
+          npm run new-badge
+        env:
+          CI: true
+
+      - name: Set up Git
+        run: |
+          git config user.name "Barudak Rosul Bot"
+          git config user.email "178687547+barudakrosul-bot@users.noreply.github.com"
+          git config --global --add safe.directory ${GITHUB_WORKSPACE}
+
+      - name: Push commit to a new branch
+        run: |
+          branch="auto_update_badges"
+          message="chore: auto update badges file"
+          body=$(printf "_This pull request was created automatically._\n\n> Co-authored-by: Barudak Rosul Bot <178687547+barudakrosul-bot@users.noreply.github.com>")
+                    if [[ "$(git status --porcelain)" != "" ]]; then
+            git branch -D ${branch} || true
+            git checkout -b ${branch}
+            git add images
+            git commit --message "${message}"
+            git remote add origin-${branch} "https://github.com/BarudakRosul/.github.git"
+            git push --force --quiet --set-upstream origin-${branch} ${branch}
+            gh pr create --title "${message}" --body "${body}"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
