@@ -17,6 +17,7 @@ async function prettierSvg(data) {
         parser: "html",
         tabWidth: 4,
         useTabs: false,
+        printWidth: 99999999999999999999999999999999,
     });
 };
 
