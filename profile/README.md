@@ -8,6 +8,7 @@
     </a>
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
+    <p><img src="https://komarev.com/ghpvc/?username=barudakrosul"/></p>
     </br>
     <a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine"/></a>
 </div>
