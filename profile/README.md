@@ -42,7 +42,7 @@
 
 </br>
 
-<h2>⚒️ Alat yang Kami Gunakan</h2>
+<h2>🛠️ Alat yang Kami Gunakan</h2>
 
 <div align="left">
     <picture>
@@ -56,4 +56,52 @@
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" media="(prefers-color-scheme: light)">
         <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" alt="PyPI" width="40" height="40">
     </picture>
+</div>
+
+</br>
+
+<h2>💼 Tim Kami</h2>
+
+<h3>1. Rangga Fajar Oktariansyah (<a href="https://github.com/FajarKim">@FajarKim</a>)</h3>
+<div align="left">
+    <a href="https://github.com/FajarKim">
+        <picture>
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+        </picture>
+    </a>
+</div>
+
+<h3>2. Citra Bella Rahayu (<a href="https://github.com/Achixz">@Achixz</a>)</h3>
+<div align="left">
+    <a href="https://github.com/Achixz">
+        <picture>
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+        </picture>
+    </a>
+</div>
+
+<h3>3. Andi Rahek (<a href="https://github.com/Andi-Rahek">@Andi-Rahek</a>)</h3>
+<div align="left">
+    <a href="https://github.com/Andi-Rahek">
+        <picture>
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+        </picture>
+    </a>
+</div>
+
+<h3>4. Fatimah Azzahra (<a href="https://github.com/fatimazq">@fatimazq</a>)</h3>
+<div align="left">
+    <a href="https://github.com/fatimazq">
+        <picture>
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+        </picture>
+    </a>
 </div>
