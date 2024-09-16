@@ -74,6 +74,32 @@
 
 </br>
 
+<h2>💰 Donasi</h2>
+
+Kami sangat menghargai dukungan Anda untuk terus mengembangkan proyek-proyek kami. Jika Anda merasa proyek-proyek kami bermanfaat, Anda dapat mendukung kami dengan donasi:
+
+<div align="left">
+    <a href="https://ko-fi.com/barudakrosul">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" alt="Ko-fi">
+        </picture>
+    </a>
+    &nbsp;
+    <a href="https://trakteer.id/barudakrosul">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-light.svg" alt="Trakteer">
+        </picture>
+    </a>
+</div>
+
+Setiap donasi, berapapun jumlahnya, sangat berarti bagi kami. Terima kasih atas dukungan Anda! ❤️
+
+</br>
+
 <h2>💼 Tim Kami</h2>
 
 <h3>1. Rangga Fajar Oktariansyah (<a href="https://github.com/FajarKim">@FajarKim</a>)</h3>
