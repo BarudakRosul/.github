@@ -1,16 +1,20 @@
 <div align="center">
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" alt="Barudak Rosul" width="215" height="215">
-    </picture>
+    <a href="https://github.com/BarudakRosul">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" alt="Barudak Rosul" width="215" height="215">
+        </picture>
+    </a>
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
 </div>
 
+</br>
 
-<div align="center">
-    <p><strong>Bahasa Pemrograman</strong></p>
+<h2>💻 Skill Bahasa Pemrograman</h2>
+
+<div align="left">
     <picture>
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-dark.svg" media="(prefers-color-scheme: dark)">
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" media="(prefers-color-scheme: light)">
@@ -34,8 +38,13 @@
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" media="(prefers-color-scheme: light)">
         <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="40" height="40">
     </picture>
-    </br>
-    <p><strong>Developer</strong></p>
+</div>
+
+</br>
+
+<h2>⚒️ Alat yang Kami Gunakan</h2>
+
+<div align="left">
     <picture>
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-dark.svg" media="(prefers-color-scheme: dark)">
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" media="(prefers-color-scheme: light)">
