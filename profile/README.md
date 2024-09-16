@@ -66,9 +66,9 @@
 <div align="left">
     <a href="https://github.com/FajarKim">
         <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" alt="Rangga's Stats">
         </picture>
     </a>
 </div>
@@ -77,9 +77,9 @@
 <div align="left">
     <a href="https://github.com/Achixz">
         <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" alt="Citra's Stats">
         </picture>
     </a>
 </div>
@@ -88,9 +88,9 @@
 <div align="left">
     <a href="https://github.com/Andi-Rahek">
         <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" alt="Andi's Stats">
         </picture>
     </a>
 </div>
@@ -99,9 +99,9 @@
 <div align="left">
     <a href="https://github.com/fatimazq">
         <picture>
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,1d1d1e,545454&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242" media="(prefers-color-scheme: dark)">
-            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" media="(prefers-color-scheme: light)">
-            <img src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&bg_color=4,f0f0f0,dfdbdb&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9" alt="Rangga's Stats">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454" media="(prefers-color-scheme: dark)">
+            <source srcset="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" media="(prefers-color-scheme: light)">
+            <img src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb" alt="Fatimah's Stats">
         </picture>
     </a>
 </div>
