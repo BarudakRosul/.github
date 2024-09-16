@@ -18,36 +18,33 @@
 
 Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai proyek kami:
 
-<div align="left">
+<div align="center">
     <a href="https://www.javascript.com/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" alt="JavaScript" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" alt="JavaScript" width="50" height="50">
         </picture>
     </a>
-    &nbsp;
     <a href="https://www.typescriptlang.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" alt="TypeScript" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" alt="TypeScript" width="50" height="50">
         </picture>
     </a>
-    &nbsp;
     <a href="https://www.gnu.org/software/bash/manual/bash.html">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" alt="Bash" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" alt="Bash" width="50" height="50">
         </picture>
     </a>
-    &nbsp;
     <a href="https://www.python.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="50" height="50">
         </picture>
     </a>
 </div>
@@ -58,20 +55,19 @@ Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai pr
 
 Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan pemeliharaan proyek kami. Berikut adalah beberapa di antaranya:
 
-<div align="left">
+<div align="center">
     <a href="https://www.npmjs.com/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" alt="NPM" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" alt="NPM" width="50" height="50">
         </picture>
     </a>
-    &nbsp;
     <a href="https://pypi.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" alt="PyPI" width="40" height="40">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" alt="PyPI" width="50" height="50">
         </picture>
     </a>
 </div>
@@ -87,15 +83,14 @@ Kami sangat menghargai dukungan Anda untuk terus mengembangkan proyek-proyek kam
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" alt="Ko-fi">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" alt="Ko-fi" height="35">
         </picture>
     </a>
-    &nbsp;
     <a href="https://trakteer.id/barudakrosul">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-dark.svg" media="(prefers-color-scheme: dark)">
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-light.svg" media="(prefers-color-scheme: light)">
-            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-light.svg" alt="Trakteer">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-light.svg" alt="Trakteer" height="35">
         </picture>
     </a>
 </div>
