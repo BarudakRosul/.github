@@ -16,6 +16,8 @@
 
 <h2>💻 Skill Bahasa Pemrograman</h2>
 
+Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai proyek kami:
+
 <div align="left">
     <a href="https://www.javascript.com/">
         <picture>
@@ -53,6 +55,8 @@
 </br>
 
 <h2>🛠️ Alat yang Kami Gunakan</h2>
+
+Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan pemeliharaan proyek kami. Berikut adalah beberapa di antaranya:
 
 <div align="left">
     <a href="https://www.npmjs.com/">
@@ -101,6 +105,8 @@ Setiap donasi, berapapun jumlahnya, sangat berarti bagi kami. Terima kasih atas 
 </br>
 
 <h2>💼 Tim Kami</h2>
+
+Berikut adalah anggota tim kami beserta profil GitHub mereka:
 
 <h3>1. Rangga Fajar Oktariansyah (<a href="https://github.com/FajarKim">@FajarKim</a>)</h3>
 
