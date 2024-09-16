@@ -8,6 +8,8 @@
     </a>
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
+    </br>
+    <a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine"/></a>
 </div>
 
 </br>
@@ -15,29 +17,37 @@
 <h2>💻 Skill Bahasa Pemrograman</h2>
 
 <div align="left">
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" alt="JavaScript" width="40" height="40">
-    </picture>
+    <a href="https://www.javascript.com/">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" alt="JavaScript" width="40" height="40">
+        </picture>
+    </a>
     &nbsp;
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" alt="TypeScript" width="40" height="40">
-    </picture>
+    <a href="https://www.typescriptlang.org/">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" alt="TypeScript" width="40" height="40">
+        </picture>
+    </a>
     &nbsp;
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" alt="Bash" width="40" height="40">
-    </picture>
+    <a href="https://www.gnu.org/software/bash/manual/bash.html">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" alt="Bash" width="40" height="40">
+        </picture>
+    </a>
     &nbsp;
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="40" height="40">
-    </picture>
+    <a href="https://www.python.org/">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="40" height="40">
+        </picture>
+    </a>
 </div>
 
 </br>
@@ -45,17 +55,21 @@
 <h2>🛠️ Alat yang Kami Gunakan</h2>
 
 <div align="left">
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" alt="NPM" width="40" height="40">
-    </picture>
+    <a href="https://www.npmjs.com/">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" alt="NPM" width="40" height="40">
+        </picture>
+    </a>
     &nbsp;
-    <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" alt="PyPI" width="40" height="40">
-    </picture>
+    <a href="https://pypi.org/">
+        <picture>
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-dark.svg" media="(prefers-color-scheme: dark)">
+            <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" media="(prefers-color-scheme: light)">
+            <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-light.svg" alt="PyPI" width="40" height="40">
+        </picture>
+    </a>
 </div>
 
 </br>
@@ -81,3 +95,5 @@
 
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,545454#gh-dark-mode-only)](https://github.com/fatimazq#gh-dark-mode-only)
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/fatimazq#gh-light-mode-only)
+
+[![Stand with Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
