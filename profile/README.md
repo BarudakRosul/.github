@@ -16,7 +16,7 @@
 
 ## 🏢 Tentang Kami
 
-Kami adalah salah satu organisasi komunitas yang berfokus pada membuat modul-modul untuk JavaScript dan Python. Semua modul yang dibuat, Kami hosting ke NPM.js dan PyPI agar bisa digunakan di lingkungan yang tepat. Meskipun modul-modul yang Kami buat sangat sederhana, tapi Kami yakin akan sangat berguna untuk kedepannya.
+Kami adalah salah satu organisasi komunitas yang berfokus pada membuat modul-modul untuk JavaScript dan Python. Semua modul yang dibuat, Kami upload ke NPM.js dan PyPI agar bisa digunakan di lingkungan yang tepat. Meskipun modul-modul yang Kami buat sangat sederhana, tapi Kami yakin akan sangat berguna untuk kedepannya.
 
 Dengan meneladani sifat-sifat jungjungan Kami, yaitu Nabi Muhammad SAW, Kami berupaya membantu para pengembang dengan modul-modul yang kami buat, terutama dari modul-modul yang simpel dan sederhana, yang banyak orang anggap kurang berguna. Besar harapan bagi Kami untuk mencapai salah satu tujuan, yaitu bisa membuat seluruh Dunia menjadi tahu bahwa agama Islam bukanlah teroris atau pembawa bencana, melainkan sebagai agama yang membawa perdamaian, kenyamanan, keamanan, dan penuh kasih sayang.
 
