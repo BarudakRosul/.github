@@ -14,6 +14,16 @@
 
 </br>
 
+<h2>🧒🏻 Tentang Kami</h2>
+
+Kami adalah salah satu organisasi komunitas yang berfokus pada membuat modul-modul untuk JavaScript dan Python. Semua modul yang dibuat, Kami hosting ke NPM.js dan PyPI agar bisa digunakan di lingkungan yang tepat. Meskipun modul-modul yang Kami buat sangat sederhana, tapi Kami yakin akan sangat berguna untuk kedepannya.
+
+Dengan meneladani sifat-sifat jungjungan Kami, yaitu Nabi Muhammad SAW, Kami berupaya membantu para pengembang dengan modul-modul yang kami buat, terutama dari modul-modul yang simpel dan sederhana, yang banyak orang anggap kurang berguna. Besar harapan bagi Kami untuk mencapai salah satu tujuan, yaitu bisa membuat seluruh Dunia menjadi tahu bahwa agama Islam bukanlah teroris atau pembawa bencana, melainkan sebagai agama yang membawa perdamaian, kenyamanan, keamanan, dan penuh kasih sayang.
+
+Meskipun Kami bergerak di bidang pemrograman atau IT, tetapi Kami akan selalu menjunjung tinggi nilai-nilai agama dan toleransi.
+
+</br>
+
 <h2>💻 Skill Bahasa Pemrograman</h2>
 
 Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai proyek kami:
@@ -127,5 +137,7 @@ Berikut adalah anggota tim kami beserta profil GitHub mereka:
 
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/fatimazq#gh-dark-mode-only)
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/fatimazq#gh-light-mode-only)
+
+</br>
 
 [![Stand with Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
