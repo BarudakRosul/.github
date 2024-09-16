@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/pictures-dark.svg" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/pictures-light.svg" media="(prefers-color-scheme: light)">
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/pictures-light.svg" alt="Barudak Rosul" width="215" height="215">
+        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-dark.svg" media="(prefers-color-scheme: dark)">
+        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" media="(prefers-color-scheme: light)">
+        <img src="https://github.com/BarudakRosul/.github/raw/master/images/picture-light.svg" alt="Barudak Rosul" width="215" height="215">
     </picture>
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
