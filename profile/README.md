@@ -26,6 +26,7 @@ Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai pr
             <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" alt="JavaScript" width="50" height="50">
         </picture>
     </a>
+    &nbsp;
     <a href="https://www.typescriptlang.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-dark.svg" media="(prefers-color-scheme: dark)">
@@ -33,6 +34,7 @@ Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai pr
             <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/typescript-light.svg" alt="TypeScript" width="50" height="50">
         </picture>
     </a>
+    &nbsp;
     <a href="https://www.gnu.org/software/bash/manual/bash.html">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-dark.svg" media="(prefers-color-scheme: dark)">
@@ -40,6 +42,7 @@ Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai pr
             <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/bash-light.svg" alt="Bash" width="50" height="50">
         </picture>
     </a>
+    &nbsp;
     <a href="https://www.python.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-dark.svg" media="(prefers-color-scheme: dark)">
@@ -63,6 +66,7 @@ Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan p
             <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" alt="NPM" width="50" height="50">
         </picture>
     </a>
+    &nbsp;
     <a href="https://pypi.org/">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/pypi-dark.svg" media="(prefers-color-scheme: dark)">
@@ -86,6 +90,7 @@ Kami sangat menghargai dukungan Anda untuk terus mengembangkan proyek-proyek kam
             <img src="https://github.com/BarudakRosul/.github/raw/master/images/buttons/kofi-light.svg" alt="Ko-fi" height="35">
         </picture>
     </a>
+    &nbsp;
     <a href="https://trakteer.id/barudakrosul">
         <picture>
             <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/buttons/trakteer-dark.svg" media="(prefers-color-scheme: dark)">
