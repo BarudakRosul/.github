@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.5" height="28" role="img" aria-label="REPO&apos;S COUNT: 13"><title>REPO&apos;S COUNT: 13</title><g shape-rendering="crispEdges"><rect width="115" height="28" fill="#555"/><rect x="115" width="40.5" height="28" fill="#e05d44"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="575" y="175" textLength="910" fill="#fff">REPO&apos;S COUNT</text><text transform="scale(.1)" x="1352.5" y="175" textLength="165" fill="#fff" font-weight="bold">13</text></g></svg>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="217.25"
+    height="28"
+    role="img"
+    aria-label="REPO'S COUNT: UNDEFINED"
+>
+    <title>REPO&apos;S COUNT: UNDEFINED</title>
+    <g shape-rendering="crispEdges">
+        <rect width="115" height="28" fill="#555" />
+        <rect x="115" width="102.25" height="28" fill="#e05d44" />
+    </g>
+    <g
+        fill="#fff"
+        text-anchor="middle"
+        font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision"
+        font-size="100"
+    >
+        <text
+            transform="scale(.1)"
+            x="575"
+            y="175"
+            textLength="910"
+            fill="#fff"
+        >
+            REPO&apos;S COUNT
+        </text>
+        <text
+            transform="scale(.1)"
+            x="1661.25"
+            y="175"
+            textLength="782.5"
+            fill="#fff"
+            font-weight="bold"
+        >
+            UNDEFINED
+        </text>
+    </g>
+</svg>
