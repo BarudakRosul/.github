@@ -9,10 +9,10 @@
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
     <p>
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="20"/>
-        <img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="20"/>
-        <img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="20"/>
-        <img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="20"/>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="22"/></a>
     </p>
     </br>
     <a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine"/></a>
@@ -93,6 +93,24 @@ Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan p
 </div>
 
 </br>
+
+## 🎬 Proyek yang Kami Buat
+
+Berikut ini beberapa proyek yang kami buat:
+
+[![TextWrap](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/textwrap#gh-dark-mode-only)
+[![TextWrap](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/textwrap#gh-light-mode-only)
+
+[![Shell Compiler](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/shell-compiler#gh-dark-mode-only)
+[![Shell Compiler](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/shell-compiler#gh-light-mode-only)
+
+[![Go-crypt](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/go-crypt#gh-dark-mode-only)
+[![Go-crypt](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/go-crypt#gh-light-mode-only)
+
+[![Internet Available](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/internet-available#gh-dark-mode-only)
+[![Internet Available](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/internet-available#gh-light-mode-only)
+
+[Lihat lebih banyak...](https://github.com/orgs/BarudakRosul/repositories)
 
 ## 💰 Donasi
 
