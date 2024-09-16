@@ -14,7 +14,7 @@
 
 </br>
 
-<h2>🧒🏻 Tentang Kami</h2>
+## 🏢 Tentang Kami
 
 Kami adalah salah satu organisasi komunitas yang berfokus pada membuat modul-modul untuk JavaScript dan Python. Semua modul yang dibuat, Kami hosting ke NPM.js dan PyPI agar bisa digunakan di lingkungan yang tepat. Meskipun modul-modul yang Kami buat sangat sederhana, tapi Kami yakin akan sangat berguna untuk kedepannya.
 
@@ -24,7 +24,7 @@ Meskipun Kami bergerak di bidang pemrograman atau IT, tetapi Kami akan selalu me
 
 </br>
 
-<h2>💻 Skill Bahasa Pemrograman</h2>
+## 💻 Skill Bahasa Pemrograman
 
 Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai proyek kami:
 
@@ -64,7 +64,7 @@ Berikut adalah bahasa pemrograman yang kami kuasai dan gunakan dalam berbagai pr
 
 </br>
 
-<h2>🛠️ Alat yang Kami Gunakan</h2>
+## 🛠️ Alat yang Kami Gunakan
 
 Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan pemeliharaan proyek kami. Berikut adalah beberapa di antaranya:
 
@@ -88,7 +88,7 @@ Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan p
 
 </br>
 
-<h2>💰 Donasi</h2>
+## 💰 Donasi
 
 Kami sangat menghargai dukungan Anda untuk terus mengembangkan proyek-proyek kami. Jika Anda merasa proyek-proyek kami bermanfaat, Anda dapat mendukung kami dengan donasi:
 
@@ -114,26 +114,26 @@ Setiap donasi, berapapun jumlahnya, sangat berarti bagi kami. Terima kasih atas 
 
 </br>
 
-<h2>💼 Tim Kami</h2>
+## 💼 Tim Kami
 
 Berikut adalah anggota tim kami beserta profil GitHub mereka:
 
-<h3>1. Rangga Fajar Oktariansyah (<a href="https://github.com/FajarKim">@FajarKim</a>)</h3>
+### 1. Rangga Fajar Oktariansyah ([@FajarKim](https://github.com/FajarKim))
 
 [![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/FajarKim#gh-dark-mode-only)
 [![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/FajarKim#gh-light-mode-only)
 
-<h3>2. Citra Bella Rahayu (<a href="https://github.com/Achixz">@Achixz</a>)</h3>
+### 2. Citra Bella Rahayu ([@Achixz](https://github.com/Achixz))
 
 [![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/Achixz#gh-dark-mode-only)
 [![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Achixz#gh-light-mode-only)
 
-<h3>3. Andi Rahek (<a href="https://github.com/Andi-Rahek">@Andi-Rahek</a>)</h3>
+### 3. Andi Rahek ([@Andi-Rahek](https://github.com/Andi-Rahek))
 
 [![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/Andi-Rahek#gh-dark-mode-only)
 [![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Andi-Rahek#gh-light-mode-only)
 
-<h3>4. Fatimah Azzahra (<a href="https://github.com/fatimazq">@fatimazq</a>)</h3>
+### 4. Fatimah Azzahra ([@fatimazq](https://github.com/fatimazq))
 
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/fatimazq#gh-dark-mode-only)
 [![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/fatimazq#gh-light-mode-only)
