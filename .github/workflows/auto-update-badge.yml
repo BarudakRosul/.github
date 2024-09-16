@@ -63,14 +63,14 @@ jobs:
           branch="auto_update_badges"
           message="chore: auto update badges file"
           body=$(printf "_This pull request was created automatically._\n\n> Co-authored-by: Barudak Rosul Bot <178687547+barudakrosul-bot@users.noreply.github.com>")
-                    if [[ "$(git status --porcelain)" != "" ]]; then
-            git branch -D ${branch} || true
-            git checkout -b ${branch}
-            git add images
-            git commit --message "${message}"
-            git remote add origin-${branch} "https://github.com/BarudakRosul/.github.git"
-            git push --force --quiet --set-upstream origin-${branch} ${branch}
-            gh pr create --title "${message}" --body "${body}"
+          if [[ "$(git status --porcelain)" != "" ]]; then
+              git branch -D ${branch} || true
+              git checkout -b ${branch}
+              git add images
+              git commit --message "${message}"
+              git remote add origin-${branch} "https://github.com/BarudakRosul/.github.git"
+              git push --force --quiet --set-upstream origin-${branch} ${branch}
+              gh pr create --title "${message}" --body "${body}"
           fi
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
