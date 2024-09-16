@@ -1,15 +1,15 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="216.25"
+    width="154.5"
     height="28"
     role="img"
-    aria-label="STAR'S COUNT: UNDEFINED"
+    aria-label="STAR'S COUNT: 10"
 >
-    <title>STAR&apos;S COUNT: UNDEFINED</title>
+    <title>STAR&apos;S COUNT: 10</title>
     <g shape-rendering="crispEdges">
         <rect width="114" height="28" fill="#555" />
-        <rect x="114" width="102.25" height="28" fill="#fe7d37" />
+        <rect x="114" width="40.5" height="28" fill="#fe7d37" />
     </g>
     <g
         fill="#fff"
@@ -29,13 +29,13 @@
         </text>
         <text
             transform="scale(.1)"
-            x="1651.25"
+            x="1342.5"
             y="175"
-            textLength="782.5"
+            textLength="165"
             fill="#fff"
             font-weight="bold"
         >
-            UNDEFINED
+            10
         </text>
     </g>
 </svg>
