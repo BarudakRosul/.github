@@ -1,12 +1,16 @@
 <div align="center">
-    <img src="https://github.com/BarudakRosul/.github/raw/master/images/picture.svg" alt="Picture" width="215" height="215"/>
+    <picture>
+        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/pictures-dark.svg" media="(prefers-color-scheme: dark)">
+        <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/pictures-light.svg" media="(prefers-color-scheme: light)">
+        <img src="https://github.com/BarudakRosul/.github/raw/master/images/pictures-light.svg" alt="Barudak Rosul" width="215" height="215">
+    </picture>
     <h1>Barudak Rosul</h1>
-    <p>Komunitas Barudak Masjid di SMA Negeri 22 Garut</p>
+    <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
 </div>
 
 
 <div align="center">
-    <h2>Bahasa Pemrograman</h2>
+    <p><strong>Bahasa Pemrograman</strong></p>
     <picture>
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-dark.svg" media="(prefers-color-scheme: dark)">
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/javascript-light.svg" media="(prefers-color-scheme: light)">
@@ -31,7 +35,7 @@
         <img src="https://github.com/BarudakRosul/.github/raw/master/images/icons/python-light.svg" alt="Python" width="40" height="40">
     </picture>
     </br>
-    <h2>Developer</h2>
+    <p><strong>Developer</strong></p>
     <picture>
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-dark.svg" media="(prefers-color-scheme: dark)">
         <source srcset="https://github.com/BarudakRosul/.github/raw/master/images/icons/npm-light.svg" media="(prefers-color-scheme: light)">
