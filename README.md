@@ -9,10 +9,10 @@
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
     <p>
-        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="22"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="22"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="22"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="25"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="25"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="25"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="25"/></a>
     </p>
     </br>
     <a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine"/></a>
