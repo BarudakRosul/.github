@@ -9,10 +9,10 @@
     <h1>Barudak Rosul</h1>
     <p>Komunitas Barudak Masjid Baitussalam di SMA Negeri 22 Garut 👳🏻</p>
     <p>
-        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="25"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="25"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="25"/></a>
-        <a href="https://github.com/BarudakRosul"><img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="25"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/stars-count.svg" alt="Star's Count" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://github.com/BarudakRosul/.github/raw/master/images/badges/repos-count.svg" alt="Repo's Count" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://komarev.com/ghpvc/?username=barudakrosul&abbreviated=true&style=for-the-badge" alt="Profile Views" height="22"/></a>
+        <a href="https://github.com/BarudakRosul"><img src="https://img.shields.io/npm-stat/dy/barudakrosul-bot?style=for-the-badge&label=NPM%20Downloads" alt="NPM Downloads Count" height="22"/></a>
     </p>
     </br>
     <a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine"/></a>
@@ -98,17 +98,38 @@ Kami menggunakan berbagai alat dan platform untuk mempermudah pengembangan dan p
 
 Berikut ini beberapa proyek yang kami buat:
 
-[![TextWrap](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/textwrap#gh-dark-mode-only)
-[![TextWrap](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/textwrap#gh-light-mode-only)
-
-[![Shell Compiler](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/shell-compiler#gh-dark-mode-only)
-[![Shell Compiler](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/shell-compiler#gh-light-mode-only)
-
-[![Go-crypt](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/go-crypt#gh-dark-mode-only)
-[![Go-crypt](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/go-crypt#gh-light-mode-only)
-
-[![Internet Available](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/BarudakRosul/internet-available#gh-dark-mode-only)
-[![Internet Available](https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/BarudakRosul/internet-available#gh-light-mode-only)
+</p>
+    <a href="https://github.com/BarudakRosul/textwrap#gh-dark-mode-only">
+        <img alt="TextWrap" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+    </a>
+    <a href="https://github.com/BarudakRosul/textwrap#gh-light-mode-only">
+        <img alt="TextWrap" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=textwrap&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+    </a>
+</p>
+</p>
+    <a href="https://github.com/BarudakRosul/shell-compiler#gh-dark-mode-only">
+        <img alt="Shell Compiler" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+    </a>
+    <a href="https://github.com/BarudakRosul/shell-compiler#gh-light-mode-only">
+        <img alt="Shell Compiler" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=shell-compiler&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+    </a>
+</p>
+</p>
+    <a href="https://github.com/BarudakRosul/go-crypt#gh-dark-mode-only">
+        <img alt="Go-crypt" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+    </a>
+    <a href="https://github.com/BarudakRosul/go-crypt#gh-light-mode-only">
+        <img alt="Go-crypt" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=go-crypt&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+    </a>
+</p>
+</p>
+    <a href="https://github.com/BarudakRosul/internet-available#gh-dark-mode-only">
+        <img alt="Internet Available" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=fff&text_color=fff&icon_color=e1d9d9&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+    </a>
+    <a href="https://github.com/BarudakRosul/internet-available#gh-light-mode-only">
+        <img alt="Internet Available" src="https://github-readme-stats.vercel.app/api/pin?username=BarudakRosul&repo=internet-available&hide_border=true&border_radius=6&title_color=000&text_color=000&icon_color=49494b&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+    </a>
+</p>
 
 [Lihat lebih banyak...](https://github.com/orgs/BarudakRosul/repositories)
 
@@ -146,24 +167,41 @@ Berikut adalah anggota tim kami beserta profil GitHub mereka:
 
 ### 1. Rangga Fajar Oktariansyah ([@FajarKim](https://github.com/FajarKim))
 
-[![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/FajarKim#gh-dark-mode-only)
-[![Rangga's Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/FajarKim#gh-light-mode-only)
+<a href="https://github.com/FajarKim#gh-dark-mode-only">
+    <img alt="Rangga's Stats" src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+</a>
+<a href="https://github.com/FajarKim#gh-light-mode-only">
+    <img alt="Rangga's Stats" src="https://gh-readme-profile.vercel.app/api?username=FajarKim&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+</a>
 
 ### 2. Citra Bella Rahayu ([@Achixz](https://github.com/Achixz))
 
-[![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/Achixz#gh-dark-mode-only)
-[![Citra's Stats](https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Achixz#gh-light-mode-only)
+<a href="https://github.com/Achixz#gh-dark-mode-only">
+    <img alt="Citra's Stats" src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+</a>
+<a href="https://github.com/Achixz#gh-light-mode-only">
+    <img alt="Citra's Stats" src="https://gh-readme-profile.vercel.app/api?username=Achixz&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+</a>
 
 ### 3. Andi Rahek ([@Andi-Rahek](https://github.com/Andi-Rahek))
 
-[![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/Andi-Rahek#gh-dark-mode-only)
-[![Andi's Stats](https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/Andi-Rahek#gh-light-mode-only)
+<a href="https://github.com/Andi-Rahek#gh-dark-mode-only">
+    <img alt="Andi's Stats" src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+</a>
+<a href="https://github.com/Andi-Rahek#gh-light-mode-only">
+    <img alt="Andi's Stats" src="https://gh-readme-profile.vercel.app/api?username=Andi-Rahek&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+</a>
 
 ### 4. Fatimah Azzahra ([@fatimazq](https://github.com/fatimazq))
 
-[![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only)](https://github.com/fatimazq#gh-dark-mode-only)
-[![Fatimah's Stats](https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only)](https://github.com/fatimazq#gh-light-mode-only)
+<a href="https://github.com/fatimazq#gh-dark-mode-only">
+    <img alt="Fatimah's Stats" src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=fff&text_color=fff&icon_color=e1d9d9&stroke_color=444242&bg_color=4,1d1d1e,4a4a4a#gh-dark-mode-only" width="600"/>
+</a>
+<a href="https://github.com/fatimazq#gh-light-mode-only">
+    <img alt="Fatimah's Stats" src="https://gh-readme-profile.vercel.app/api?username=fatimazq&hide_border=true&border_radius=6&locale=id&title_color=000&text_color=000&icon_color=49494b&stroke_color=e1d9d9&bg_color=4,f0f0f0,dfdbdb#gh-light-mode-only" width="600"/>
+</a>
 
+</br>
 </br>
 
 [![Stand with Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
