@@ -2,7 +2,7 @@
   "name": "BarudakRosul",
   "dependencies": {
     "axios": "^1.10.0",
-    "prettier": "^3.6.0",
+    "prettier": "^3.6.2",
     "svgo": "^4.0.0"
   },
   "engines": {
